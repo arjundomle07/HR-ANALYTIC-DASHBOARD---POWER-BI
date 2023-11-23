@@ -1,0 +1,42 @@
+# HR-ANALYTIC-DASHBOARD---POWER-BI
+**Business Context:**
+In today's dynamic and competitive business environment, workforce management is a critical aspect for any organization striving for success. Efficiently managing human resources, understanding factors influencing employee attrition, and ensuring employee satisfaction are essential components for organizational growth. Your organization, XYZ Corp, is no exception and is keen on leveraging data-driven insights to enhance HR strategies.
+
+**Problem Statement:**
+XYZ Corp has recently implemented a Power BI dashboard to gain comprehensive insights into its employee data. The dataset includes various attributes such as employee demographics, job-related information, and satisfaction metrics. The organization aims to address key challenges and make informed decisions to optimize its workforce management practices.
+
+**Key Questions to Address:**
+1. **Attrition Analysis:**
+   - What factors contribute to employee attrition within the organization?
+   - Can we identify patterns or trends leading to higher attrition rates?
+
+2. **Demographic Profiling:**
+   - How is the workforce distributed across different age groups?
+   - Are there any correlations between age and job satisfaction, performance, or tenure?
+
+3. **Job Role and Satisfaction:**
+   - Which job roles have the highest job satisfaction levels?
+   - Is there a relationship between job involvement and job satisfaction?
+
+4. **Compensation and Satisfaction:**
+   - How does the salary slab influence employee satisfaction?
+   - Can we identify any patterns in salary distribution across different departments?
+
+5. **Work-Life Balance:**
+   - Is there a correlation between work-life balance and employee retention?
+   - How does the frequency of training impact work-life balance and job satisfaction?
+
+6. **Career Progression:**
+   - What factors contribute to career progression within the company?
+   - Are there areas where employees have been stagnant in their roles?
+
+7. **Gender and Diversity:**
+   - How is the workforce distributed across genders and various education fields?
+   - Are there any gender-related trends in job levels or promotions?
+
+8. **Overtime Impact:**
+   - Does overtime work have any significant impact on attrition or job satisfaction?
+   - How does the percentage of salary hike correlate with overtime patterns?
+
+**Objective:**
+The objective of this analysis is to provide actionable insights to XYZ Corp's HR department. By understanding the relationships between various employee attributes and organizational outcomes, the company aims to implement targeted strategies to improve employee satisfaction, reduce attrition, and optimize workforce management practices for long-term success. The Power BI dashboard will serve as a crucial tool in visualizing and interpreting these insights effectively.
