@@ -1,2 +1,0 @@
-# HR ANALYTIC DASHBOARD
-Done Attrition
